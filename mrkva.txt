@@ -1,2 +1,5 @@
-toto je jarova mrkva
-a toto je moja mrkva
+toto je jarova mrkva - nie toto bola jeho mrkva
+pridal som si riadok lokalne
+a toto je moja mrkva uz nastalo
+dalsi pridany riadok
+
